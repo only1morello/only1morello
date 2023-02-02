@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnie</h1>
-<h3 align="center">A passionate Swift developer</h3>
+<h3 align="center">The Ashen one</h3>
 
 <img align = "right" alt="coding" width="300" src="https://64.media.tumblr.com/88733981595e6ea50b5be1428c0908f0/tumblr_pkkay0jZa71w3y4ilo2_r1_640.gif">
 
