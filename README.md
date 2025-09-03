@@ -3,13 +3,13 @@
 
 <img align = "right" alt="coding" width="300" src="https://64.media.tumblr.com/88733981595e6ea50b5be1428c0908f0/tumblr_pkkay0jZa71w3y4ilo2_r1_640.gif">
 
-- 💬 **Big Steppa ☔️**
+- 💬 **Big Steppa ☔**
 
 - 📫 How to reach me **brightborn@europe.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/arn1.e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arn1.e" height="30" width="40" /></a>
+<a href="https://instagram.com/1glaco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arn1.e" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
